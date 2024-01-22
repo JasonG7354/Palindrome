@@ -1,0 +1,57 @@
+
+body{
+    font-size: 3vh;
+    background-color: #FC4A1A;
+    font-family: 'Bebas Neue', sans-serif;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+p{
+    font-size: 2.5vh;
+}
+form{
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 5%;
+    background-color: white;
+    margin-left: auto;
+    width: min(100vw, 450px);
+
+    
+}
+#box{
+    margin: auto;
+    width: 50%;
+    width: min(100vw, 450px);
+}
+#check-btn{
+    border-radius: 10px;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    padding-right: 3%;
+    padding-left: 3%;
+    background-color: #4ABDAC;
+    border-style: none;
+}
+#text-input{
+    border-radius: 10px;
+    padding:2.5%;
+    border-color: #4ABDAC;
+    border-style: double; 
+}
+#result{
+    font-size: bolder;
+}
+#footer{
+    border-radius: 10px;
+    margin-top: 5%;
+    padding: 5%;
+    background-color: #f7B733;
+    color: white;
+}
